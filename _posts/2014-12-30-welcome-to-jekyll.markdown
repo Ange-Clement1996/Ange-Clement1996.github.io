@@ -1,17 +1,17 @@
----
+<!-- ---
 layout: post
 title:  "Welcome to my website"
 date:   2014-12-30 09:00:13
 categories: jekyll update
 permalink: /archivers/hello
----
+--- -->
 Hi, I am Ange-Clement AKAZAN
 I am research Master student in Data science at Quantum Leap Africa located in KIgali Rwanda.
 My research interest in mainly focused on statistical learning, AI and software engineering. 
 I hope you will enjoy your moment here.
 
 <!--more-->
-
+<!-- 
 GitHub Flavored Markdown is supported.
 
 ```ruby
@@ -49,8 +49,8 @@ You are using [EasyBook][github-easybook] the template from [laobubu.net](http:/
 
 > **Tips:** You can disable Disqus or 多说 on posts/pages by adding `nocomments: true` into [YAML Front Matter][frontmatter].
 
-EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speedy. You can find it in `_includes/footer.html` and change it to your favorite CDN like Google CDN.
-
+EasyBook uses upaiyun CDN to make everyone lncluding Chinese visitors feel speedy. You can find it in `_includes/footer.html` and change it to your favorite CDN like Google CDN. -->
+<!-- 
 ## Support me by... ##
 
 ### Add a link ###
@@ -77,4 +77,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [frontmatter]: http://jekyllrb.com/docs/frontmatter/
-[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook
+[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook -->
