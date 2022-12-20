@@ -1,17 +1,17 @@
-<!-- ---
+---
 layout: post
 title:  "Welcome to my website"
 date:   2022-12-20 09:00:13
 categories: jekyll update
 permalink: /archivers/hello
---- -->
+---
 Hi, I am Ange-Clement AKAZAN
 I am research Master student in Data science at Quantum Leap Africa located in KIgali Rwanda.
 My research interest in mainly focused on statistical learning, AI and software engineering. 
 I hope you will enjoy your moment here.
 
 <!--more-->
-<!-- 
+
 GitHub Flavored Markdown is supported.
 
 ```ruby
@@ -77,4 +77,4 @@ Check out the [Jekyll docs][jekyll] for more info on how to get the most out of 
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-help]: https://github.com/jekyll/jekyll-help
 [frontmatter]: http://jekyllrb.com/docs/frontmatter/
-[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook -->
+[github-easybook]: https://github.com/laobubu/jekyll-theme-EasyBook 
