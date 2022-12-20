@@ -1,35 +1,26 @@
-# jekyll-theme-EasyBook
+# WELCOME TO MY SSPACE
 
 Another Jekyll Blog Theme "EasyBook"
 
 Start blogging with a simple but powerful theme.
 
 ## Features
-
-- Everything Basic Jekyll has.
-- **Pagination** is enabled.
-- **Comments** using Disqus or 多说.
-- **TOC** makes reading easier.
-- **Profile** including your links and avatar on the sidebar.
-- *And more...*
+Hi, I am ANge-Clement AKAZAN
 
 ## Install
-
-Read [Quick Guide] to learn how to install and publish.
-
-Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
-
-**If need help, please:**
-
- - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
- - **Google it**
- - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
+My academic background helped me to have a solid knowledge of mathematical techniques used to
+solve problems. Additionally, I have a strong foundation in probability and statistics, and a piece of
+good knowledge about deep learning, machine learning, and AI from both a theoretical and practical
+standpoint. I am a committed, diligent worker who is highly acquainted with Python programming
+and is knowledgeable about data science-related Python libraries. I'm also familiar with SQL,
+Excel, and R.
+I enjoy teamwork, and I am always ready to come across and tackle new research challenges.
 
 ## Donate
 
 Buy me a coffee if you find EasyBook useful for you :smiley:
 
-Visit <http://laobubu.net/donate.html>
+Visit <https://github.com/Ange-Clement1996>
 
 ## Demo
 
