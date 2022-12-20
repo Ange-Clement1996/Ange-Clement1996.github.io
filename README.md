@@ -5,7 +5,7 @@ Another Jekyll Blog Theme "EasyBook"
 Start blogging with a simple but powerful theme.
 
 ## Features
-Hi, I am ANge-Clement AKAZAN
+Hi, I am Ange-Clement AKAZAN
 
 ## Install
 My academic background helped me to have a solid knowledge of mathematical techniques used to
